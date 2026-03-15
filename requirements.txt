@@ -1,0 +1,13 @@
+# Core Framework
+google-adk
+
+# Google Cloud Services
+google-cloud-bigquery
+google-cloud-discoveryengine
+google-cloud-storage
+google-cloud-aiplatform
+
+# Multimodal & Utilities
+pillow
+python-dotenv
+pandas
